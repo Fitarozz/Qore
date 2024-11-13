@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "down": "qore:block/test_block/test_block_bottom",
+      "up": "qore:block/test_block/test_block_top",
+      "north": "qore:block/test_block/test_block_side",
+      "east": "qore:block/test_block/test_block_side",
+      "south": "qore:block/test_block/test_block_side",
+      "west": "qore:block/test_block/test_block_side",
+      "particle": "qore:block/test_block/test_block_side"
+    },
+    "render_type": "solid"
+  }

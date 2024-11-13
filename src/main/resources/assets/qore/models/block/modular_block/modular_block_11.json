@@ -1,0 +1,14 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "qore:block/modular_block/modular_block_top_north",
+        "up": "qore:block/modular_block/modular_block_top_south",
+        "north": "qore:block/modular_block/modular_block_side_top",
+        "east": "qore:block/modular_block/modular_block_west_down",
+        "south": "qore:block/modular_block/modular_block_side_top",
+        "west": "qore:block/modular_block/modular_block_east_down",
+        "particle": "qore:block/modular_block/modular_block_side"
+    },
+    
+    "render_type": "solid"
+  }

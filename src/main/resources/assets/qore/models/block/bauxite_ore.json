@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "down": "qore:block/bauxite_ore",
+      "up": "qore:block/bauxite_ore",
+      "north": "qore:block/bauxite_ore",
+      "east": "qore:block/bauxite_ore",
+      "south": "qore:block/bauxite_ore",
+      "west": "qore:block/bauxite_ore",
+      "particle": "qore:block/bauxite_ore"
+    },
+    "render_type": "solid"
+  }

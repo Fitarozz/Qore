@@ -1,0 +1,10 @@
+{
+  "item_group.qore.qore": "Qore",
+
+  "block.qore.bauxite_ore": "Bauxite Ore",
+  "block.qore.test_block": "Test Block",
+  "block.qore.modular_block": "Modular Block",
+  
+  "item.qore.aluminum_ingot": "Aluminum Ingot",
+  "item.qore.raw_bauxite": "Raw Bauxite"
+}

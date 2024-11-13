@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "north=false,south=false,east=false,west=false,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_0"
+    },
+    "north=true,south=false,east=false,west=false,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_1"
+    },
+    "north=false,south=true,east=false,west=false,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_2"
+    },
+    "north=false,south=false,east=true,west=false,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_3"
+    },
+    "north=false,south=false,east=false,west=true,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_4"
+    },
+    "north=true,south=true,east=false,west=false,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_5"
+    },
+    "north=false,south=false,east=true,west=true,up=false,down=false": {
+      "model": "qore:block/modular_block/modular_block_6"
+    },
+    "north=true,south=false,east=false,west=false,up=true,down=false": {
+      "model": "qore:block/modular_block/modular_block_7"
+    },
+    "north=false,south=true,east=false,west=false,up=true,down=false": {
+      "model": "qore:block/modular_block/modular_block_8"
+    },
+    "north=true,south=true,east=false,west=false,up=true,down=false": {
+      "model": "qore:block/modular_block/modular_block_9"
+    },
+    "north=true,south=false,east=false,west=false,up=false,down=true": {
+      "model": "qore:block/modular_block/modular_block_10"
+    },
+    "north=false,south=true,east=false,west=false,up=false,down=true": {
+      "model": "qore:block/modular_block/modular_block_11"
+    },
+    "north=true,south=true,east=false,west=false,up=false,down=true": {
+      "model": "qore:block/modular_block/modular_block_12"
+    }
+  }
+}

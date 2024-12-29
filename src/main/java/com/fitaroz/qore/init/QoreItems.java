@@ -2,6 +2,7 @@ package com.fitaroz.qore.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredItem;
+import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredHolder;
 
 import net.minecraft.world.level.block.Block;
@@ -23,6 +24,9 @@ public class QoreItems {
 	public static final DeferredItem<Item> BAUXITE_ORE = block(QoreBlocks.BAUXITE_ORE);
 	public static final DeferredItem<Item> TEST_BLOCK = block(QoreBlocks.TEST_BLOCK);
 	public static final DeferredItem<Item> MODULAR_BLOCK = block(QoreBlocks.MODULAR_BLOCK);
+
+	public static final DeferredItem<Item> SOLAR_PANEL_ITEM = block(QoreBlocks.SOLAR_PANEL_BLOCK);
+
 	
 	private static DeferredItem<Item> block(DeferredHolder<Block, Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

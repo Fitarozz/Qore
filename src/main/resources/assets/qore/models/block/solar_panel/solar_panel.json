@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "down": "qore:block/test_block_top",
+      "up": "qore:block/solor_panel/solar_panel_up",
+      "north": "qore:block/solar_panel/solar_panel_side",
+      "east": "qore:block/solar_panel/solar_panel_side",
+      "south": "qore:block/solar_panel/solar_panel_side",
+      "west": "qore:block/bauxite_ore",
+      "particle": "qore:block/solar_panel"
+    },
+    "render_type": "solid"
+  }
